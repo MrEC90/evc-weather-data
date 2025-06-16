@@ -114,5 +114,9 @@
     "blocktest.dreamhosters.com": {
         "lat": 26.207966,
         "lon": -98.20311
+    },
+    "foxrgv.tv": {
+        "lat": 26.203407,
+        "lon": -98.230011
     }
 }
